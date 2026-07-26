@@ -1,9 +1,6 @@
 <details>
 <summary><b>Нажмите для русской версии</b></summary>
 
-# Student Manager
-
-Приложение на языке Python с графическим интерфейсом пользователя (GUI)...
 # Менеджер студентов (Student Manager)
 
 Учебное приложение с графическим интерфейсом (GUI) для учёта и управления данными студентов, разработанное на языке Python с использованием библиотеки Tkinter. 
@@ -55,11 +52,6 @@
 
 <details>
 <summary><b>Click here for English Version</b></summary>
-
-# Student Manager
-
-A Python desktop application with a Graphical User Interface (GUI)...
-
 
 # Student Manager
 
